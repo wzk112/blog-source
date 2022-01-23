@@ -9,7 +9,7 @@ menu:
   分区: /categories/ || fas fa-folder-open
   友人帐: /link/ || fas fa-link
   关于-没弄好: /about/ || fas fa-heart
-
+  后台: https://admin.wzka.workers.dev/hpp/admin/login || fa fa-user-circle
 # Code Blocks (代碼相關)
 # --------------------------------------
 
