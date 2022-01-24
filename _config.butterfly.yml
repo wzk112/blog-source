@@ -4,11 +4,12 @@
 
 menu:
   主页: / || fas fa-home
-  List: fas fa-folder-open :
+  文章: fas fa-folder-open :
     归档: /archives/ || fas fa-archive
     标签: /tags/ || fas fa-tags
     分区: /categories/ || fas fa-folder-open
   友人帐: /link/ || fas fa-link
+  留言板: /comments/ || fas fa-comments
   关于-没弄好: /about/ || fas fa-heart
   后台: https://admin.wzka.workers.dev/hpp/admin/login || fa fa-user-circle
 # Code Blocks (代碼相關)
