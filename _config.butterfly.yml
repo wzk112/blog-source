@@ -313,7 +313,7 @@ waline:
 # utterances
 # https://utteranc.es/
 utterances:
-  repo: wzk112/blog-source
+  repo: wmz1024-files/comments1
   # Issue Mapping: pathname/url/title/og:title
   issue_term: pathname
   # Theme: github-light/github-dark/github-dark-orange/icy-dark/dark-blue/photon-dark
