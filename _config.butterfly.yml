@@ -4,7 +4,7 @@
 
 menu:
   主页: / || fas fa-home
-  文章: fas fa-folder-open :
+  文章 || fas fa-folder-open :
     归档: /archives/ || fas fa-archive
     标签: /tags/ || fas fa-tags
     分区: /categories/ || fas fa-folder-open
